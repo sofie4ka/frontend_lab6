@@ -17,7 +17,4 @@
     "url": "https://github.com/sofie4ka/frontend-labs/issues"
   },
   "homepage": "https://github.com/sofie4ka/frontend-labs#readme",
-  "dependencies": {
-    "node-fetch": "^3.3.2"
-  }
 }
