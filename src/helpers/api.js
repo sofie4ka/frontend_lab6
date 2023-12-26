@@ -9,5 +9,5 @@ export const getDataFromRandomUserApi = async () => {
 
   const result = await response.json();
 
-  return result.results;
+  return result.results[0];
 }

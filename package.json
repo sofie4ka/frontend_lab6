@@ -1,20 +1,20 @@
 {
-  "name": "mendyk-labs",
+  "name": "frontend_lab6",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sofie4ka/frontend-labs.git"
+    "url": "git+https://github.com/sofie4ka/frontend_lab6.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sofie4ka/frontend-labs/issues"
+    "url": "https://github.com/sofie4ka/frontend_lab6/issues"
   },
-  "homepage": "https://github.com/sofie4ka/frontend-labs#readme",
+  "homepage": "https://github.com/sofie4ka/frontend_lab6#readme"
 }
