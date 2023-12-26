@@ -1,4 +1,3 @@
-import fetch from 'node-fetch';
 import { API_URL } from '../data/data.js';
 
 export const getDataFromRandomUserApi = async () => {
